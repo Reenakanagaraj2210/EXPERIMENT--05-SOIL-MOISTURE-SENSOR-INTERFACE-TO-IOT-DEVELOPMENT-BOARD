@@ -1,5 +1,8 @@
 # EXPERIMENT-05-SOIL-MOISTURE-SENSOR-INTERFACE-TO-IOT-DEVELOPMENT-BOARD
-
+## DATE: 8/3/2025
+## NAME: REENA K
+## ROLL NO :212224040272
+## DEPARTMENT: CSE
 ## Aim: 
 
 To Interface a Analog Input  (soil moisture sensor) to ARM IOT development board and write a  program to obtain  the data on the com port 
@@ -434,7 +437,10 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output screen shots on serial monitor   :
- 
+ <img width="1919" height="1196" alt="Screenshot 2026-02-27 112128" src="https://github.com/user-attachments/assets/f0fc08aa-fef6-40d7-a485-5440897c480d" />
+
+
+## Circuit board :
  ![exp5](https://github.com/user-attachments/assets/94481fe9-634e-460f-be4a-9ae78330eec2)
 
  
